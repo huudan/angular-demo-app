@@ -1,5 +1,5 @@
 function AppCtrl() {
-	this.message = 'Hello, World!';
+	this.message = 'Hello, World!!!';
 }
 
 var AppComponent = {
